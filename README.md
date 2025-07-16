@@ -1,4 +1,4 @@
-This is a Cryptocurrency Wallet Dashboard project that uses machine learning models, specifically a popular neural network model named LSTM (Long Short Term Memory) Technique to predict stock and cryptocurrency prices over a given timeline using time series data from the Yahoo finance portal
+This is a Cryptocurrency Wallet Dashboard project that uses machine learning models, specifically a popular neural network model named LSTM (Long Short Term Memory) Technique to predict stock and cryptocurrency prices over a given timeline using time series data from the Yahoo finance portal.
 
 Technologies used:-
 - HTML, Bootstrap for Frontend
